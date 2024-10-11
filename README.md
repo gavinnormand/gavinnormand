@@ -1,5 +1,5 @@
 ## Hi there 👋
-### My name is Gavin Normand and I'm studying Computer Science at Northeastern University!
+My name is Gavin Normand and I'm studying Computer Science at Northeastern University!
 
 <!--
 **gavinnormand/gavinnormand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
