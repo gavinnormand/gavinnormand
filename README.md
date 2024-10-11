@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my Profile!
 My name is Gavin Normand and I'm studying Computer Science at Northeastern University!
 
 <!--
