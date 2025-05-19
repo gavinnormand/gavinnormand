@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gavin Normand</h1>
 <h3 align="center">Honors Computer Science student @ Northeastern University</h3>
 
-- 👨‍💻 All of my projects are available at [gavinnormand.com](gavinnormand.com)
+- 👨‍💻 All of my projects are available at: [gavinnormand.com](gavinnormand.com)
 
-- 📫 How to reach me **normandgavin@gmail.com**
+- 📫 You can email me at: **normandgavin@gmail.com**
 
-- 📄 View my resume [https://www.gavinnormand.com/resume.pdf](https://www.gavinnormand.com/resume.pdf)
+- 📄 You can see my resume at: [https://www.gavinnormand.com/resume.pdf](gavinnormand.com/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
