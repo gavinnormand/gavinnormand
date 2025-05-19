@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gavin Normand</h1>
+<h1 align="center">Hi, I'm Gavin Normand</h1>
 <h3 align="center">Honors Computer Science student @ Northeastern University</h3>
 
 - 👨‍💻 All of my projects are available at: [gavinnormand.com](gavinnormand.com)
