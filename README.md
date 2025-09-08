@@ -8,4 +8,4 @@
 
  
 # 📊 Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavinnormand&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="355" />  <img src="https://nirzak-streak-stats.vercel.app/?user=gavinnormand&theme=dark&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavinnormand&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="322" />&nbsp;&nbsp;<img src="https://nirzak-streak-stats.vercel.app/?user=gavinnormand&theme=dark&hide_border=false" width="450" />
