@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Gavin Normand</h1>
 <h3 align="center">Honors Computer Science student @ Northeastern University</h3>
+<h3 align="center">Current Software Engineering Intern @ Acorns[https://www.acorns.com]</h3>
+<h3 align="center">Prev. Software Engineering Co-op @ Smartleaf[https://www.smartleaf.com]</h3>
 
 <br>👨‍💻 All of my projects are available at: [gavinnormand.com](https://www.gavinnormand.com)<br><br>📫 You can email me at: [normandgavin@gmail.com](mailto:normandgavin@gmail.com) <br><br>📄 You can see my resume at: [gavinnormand.com/resume.pdf](https://www.gavinnormand.com/resume.pdf) <br><br>💼 Connect with me: [linkedin.com/in/gavin-normand](https://linkedin.com/in/gavin-normand)
 
