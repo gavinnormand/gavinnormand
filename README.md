@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gavin Normand</h1>
-<h3 align="center">Honors Computer Science Student @ Northeastern University</h3>
+<h3 align="center">Honors Computer Science Student @ <a href="https://www.northeastern.edu">Northeastern University</a></h3>
 <h3 align="center">Current Software Engineering Intern @ <a href="https://www.acorns.com">Acorns</a></h3>
 <h3 align="center">Prev. Software Engineering Co-op @ <a href="https://www.smartleaf.com">Smartleaf</a></h3>
 
